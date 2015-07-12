@@ -1,26 +1,26 @@
 baseurl = "http://eikedawid.github.io/"
 languageCode = "en-gb"
 canonifyurls = true
-title = "Your site title"
+title = "Playin' with hugo"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Copyright notice"
 
 [params]
     # Social accounts. Link to these accounts are displayed in the header and
     # footer.
-    twitter = "Your Twitter username"
-    github = "Your GitHub username"
-    linkedin = "Your LinkedIn username"
-    googleplus = "Your Google+ user id"
-    facebook = ""
-    stackoverflow = "Your Stackoverflow user id (number)"
-    keybase = "Your keybase.io username"
+    twitter = "EikeDawid"
+    github = "EikeDawid"
+    linkedin = "eike-dawid"
+    googleplus = "EikeDawid"
+    #facebook = ""
+    stackoverflow = "974744"
+    #keybase = "Your keybase.io username"
     # Google Analytics API key.
     # ga_api_key = "Your Google Analytics tracking id"
     # Mixpanel API key.
     # mixpanel_api_key = "Your Mixpanel API key"
     author = "Eike Dawid"
-    avatar = "/path/to/avatar"
+    avatar = "/images/avatar.jpeg"
     contact = "Your contact link (ex. mailto:foo@example.com)"
     bio = "Your short bio/tagline"
     # Short subtitle/tagline. This is displayed in the header.
